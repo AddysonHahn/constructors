@@ -1,0 +1,7 @@
+.border {
+  height:100px;
+  width:300px;
+  border:solid green 2px;
+  color: blue;
+  text-align: center;
+ }
